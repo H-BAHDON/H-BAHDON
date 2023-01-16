@@ -1,8 +1,4 @@
-<style>
-  h1 {
-  color:blue;}
-  
-  </style>
+
 
 
 <h1 align="center">Hussein Bahdon</h1>
