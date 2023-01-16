@@ -10,5 +10,5 @@ Hello! Welcome to my GitHub profile! Thank you for visiting! <g-emoji class="g-e
 <hr>
 <h2 align="center" dir="auto"> About Me </h2>
 <p align="center" dir="auto">
-I am a junior software developer based in London. 
+I am a junior/trainee software developer based in London with a passion for creating innovative and user-friendly web applications. Experienced in React, JavaScript, HTML, CSS, jQuery, SQL, Express.js, Authentication & Security, REST API, EJS, and Node.js, I bring my technical expertise and creative vision to every project.
 </p>
