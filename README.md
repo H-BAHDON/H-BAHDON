@@ -9,4 +9,4 @@ Hello! Welcome to my GitHub profile! Thank you for visiting! <g-emoji class="g-e
 </p>
 <hr>
 
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmw3MzNlMHExdW80dmV6NXU5bmdlcG4xb2I0ankzYmdnOTN6dGJpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmw3MzNlMHExdW80dmV6NXU5bmdlcG4xb2I0ankzYmdnOTN6dGJpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" >
